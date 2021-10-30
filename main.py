@@ -1,2 +1,5 @@
+import hello
+
 print("hello world")
-print("my name is gabrielle")
+
+hello.sayhi()
